@@ -37,7 +37,6 @@ section{
     padding : 15px 0;
     background: black;
     font-family:'Ubuntu', sans-serif;
-    transition: all 0.3s ease;
 }
 .navbar .logo a {
     color: white;
@@ -46,9 +45,7 @@ section{
 }
 .navbar .logo a span{
     color: #007af3;
-    transition: all 0.3s ease;
 }
-
 
 /* home section styling*/
 .home{
@@ -97,4 +94,3 @@ section{
     width: 400px;
     object-fit: cover;
 }
-abcdasdasdasdsadas
