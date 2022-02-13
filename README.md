@@ -4,4 +4,5 @@ The website is very simple, just a little description about me. Also, I included
 I will be updating more as my journey go on. 
 
 # Instrustion
-Just download zip and open index.html
+Go directly to this link https://ostracodous-vessel.000webhostapp.com/
+Or download zip and open index.html
