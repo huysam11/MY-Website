@@ -2,7 +2,7 @@
   "name": "website",
   "version": "1.0.0",
   "description": "Created my own fully responsive website with HTML and CSS.\r I will be updating more as my journey go on.",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
